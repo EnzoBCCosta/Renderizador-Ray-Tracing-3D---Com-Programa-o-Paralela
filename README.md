@@ -5,8 +5,11 @@ Projeto da disciplina de Programação Paralela (P1): renderizador de Ray Tracin
 ## Grupo
 
 | Integrante | Responsabilidade principal |
+
 | _Nome 1_ | Processos e sincronização |
+
 | _Nome 2_ | Threads e núcleo do ray tracer |
+
 | _Nome 3_ | Experimentos, Docker e gráficos |
 
 ## Descrição do problema
