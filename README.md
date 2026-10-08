@@ -1,1 +1,2 @@
-# Renderizador-Ray-Tracing-3D---Com-Programa-o-Paralela
+# Ray Tracer paralelo (sequencial / processos / threads)
+
